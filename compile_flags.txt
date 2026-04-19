@@ -1,0 +1,3 @@
+-std=c11
+-I/home/christian/libs
+-DCGHM_IMPLEMENTATION
